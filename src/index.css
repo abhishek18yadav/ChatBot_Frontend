@@ -128,3 +128,13 @@
     @apply font-sans;
     }
 }
+@theme {
+  /* Trusted Tech Palette */
+  --color-brand-soft: #F0F4F8;
+  --color-brand-dark: #0F172A;
+  --color-brand-accent: #3B82F6;
+
+  /* Modern Minimalist Palette */
+  --color-minimal-warm: #FDFCFB;
+  --color-minimal-charcoal: #111827;
+}
